@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+.container{
+    border: 2px solid black;
+    padding: 50px;
+    width: 75px;
+    height: 500px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color:rgb(201 201 218);
+}
+.body{
+    padding: 5px;
+    margin: auto;
+}
+.header{
+    text-align: center;
+    font-size: 40px;    
+    margin-top: -50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.main-body{
+    margin: 50px;
+}
+
+.hob{
+    display: inline;
+    margin: 121px;
+}
+
+.button{
+    text-align: center;
+    margin: 60px;
+}
+body{
+    background-color: rgb(54, 54, 119);
+}
